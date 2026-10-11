@@ -38,7 +38,7 @@ I founded [The ZAO](https://thezao.com), co-founded [WaveWarZ](https://wavewarz.
 | **WaveWarZ** | Onchain music battles on Solana where the losing artist is still paid. Founded and built by Hurric4n3ike. | Co-founder on the ZAO side: ecosystem strategy and partnerships. I own the public analytics. | [wavewarz.com](https://wavewarz.com) / [Analytics](https://wwtracker.vercel.app) |
 | **ZAO Fractal** | The weekly Respect Game: members rank each other's contributions and the results settle onchain. Mondays at 6pm EST, more than 100 weeks unbroken. | I started it in 2024 and run it | [zaofractal.vercel.app](https://zaofractal.vercel.app) |
 | **ZABAL Gamez** | A free, three-month build event for Farcaster creators. Season 1 ran June to August 2026. | I set the goals and made the calls | [zabalgamez.com](https://zabalgamez.com) / [Results](https://zabalgamez.com/results) |
-| **ZAO OS** | The lab and open monorepo where new ZAO things are prototyped before they graduate: app, agent tooling and a public research library of more than 2,200 numbered docs. | Direction and review | [zaoos.com](https://zaoos.com) / [GitHub](https://github.com/bettercallzaal/ZAOOS) / [Research](https://github.com/bettercallzaal/ZAOOS/tree/main/research) |
+| **ZAO OS** | The lab and open monorepo where new ZAO things are prototyped before they graduate: app, agent tooling and a public research library of more than 2,200 numbered docs as of 11 October 2026. | Direction and review | [zaoos.com](https://zaoos.com) / [GitHub](https://github.com/bettercallzaal/ZAOOS) / [Research](https://github.com/bettercallzaal/ZAOOS/tree/main/research) |
 | **The ZAO bounty board** | Paid bounties on POIDH, judged in public. | I run the rounds | [poidhz.com](https://poidhz.com) |
 | **BCZ YapZ** | Long-form conversations with web3 builders and music-first founders, on the record. | Host | [bczyapz.com](https://bczyapz.com) |
 | **COC Concertz** | A live-show series that began inside The ZAO and now stands as its own brand. | Host and coordinator | [cocconcertz.com](https://cocconcertz.com) |
@@ -65,7 +65,7 @@ ZAO Fractal stands on other people's work. The idea was formalized by Daniel Lar
 - [ZOL](https://github.com/bettercallzaal/zol): The ZAO's music scout on Farcaster.
 - [The ZAO papers](https://thezao.xyz/papers): the living documents behind The ZAO, with a public proposal process. [Repo](https://github.com/bettercallzaal/zao-papers).
 - [ZABAL](https://zabal.art): a weekly vote on where The ZAO focuses: music, governance, events or build.
-- [FISHBOWLZ](https://www.fishbowlz.com): open conversations, in public, on the record.
+- [FISHBOWLZ](https://www.fishbowlz.com): open conversations, in public, on the record. Past work: it was paused on 16 April 2026 and ended on 4 May 2026.
 
 ### ZAO DEVZ, the team GitHub
 
@@ -122,7 +122,6 @@ I am also open to part-time gigs. Anything virtual or digital. I am a jack of al
 | 2023 to now | Founder | The ZAO |
 | 2024 to now | Co-founder on the ZAO side: ecosystem strategy, partnerships and public analytics | WaveWarZ |
 | 2024 to now | Building Automation Technician | A biomedical research institution in Maine |
-| 2026 | Web and operations consulting | Riverside Group LLC, a landscape design firm in Mount Desert, Maine |
 | 2022 to 2024 | Automation Engineer | PCC Structurals. Led a $1.5M robotics project that achieved a 7x throughput gain. |
 | 2022 | BS, Electrical Engineering | Rochester Institute of Technology |
 
@@ -147,7 +146,7 @@ What that looks like in public:
 
 - **ZOE**, the orchestrator agent, lives in [ZAO OS](https://github.com/bettercallzaal/ZAOOS): tasks, captures, briefs and recall, plus a coder-and-critic pipeline that opens fix pull requests.
 - **[ZORCA](https://github.com/bettercallzaal/zorca)** organizes many coding agents into lanes, with conventions, a ranked board and safety rails.
-- **[The research library](https://github.com/bettercallzaal/ZAOOS/tree/main/research)** is the long-term memory: more than 2,200 numbered docs across 18 topics.
+- **[The research library](https://github.com/bettercallzaal/ZAOOS/tree/main/research)** is the long-term memory: more than 2,200 numbered docs across 18 topics, as of 11 October 2026.
 - **[The repo dashboard](https://bettercallzaal.github.io/zao-repos/)** shows every public repository, live.
 
 How each project was built:
@@ -205,7 +204,7 @@ The ZAO is that idea pointed at music. Artists hold their own margin, data and r
 
 **Collect and support:** [ZAO Cards](https://zao.cards) | [Music minting](https://song.zaofestivals.com) | [MemeBook](https://zao.lol) | [Merch](https://merch.zaofestivals.com)
 
-**Everything else:** [ZABAL Gamez](https://zabalgamez.com) | [Bounty board](https://poidhz.com) | [COC Concertz](https://cocconcertz.com) | [Zuke](https://zuke.thezao.com) | [Zlank](https://zlank.vercel.app) | [Sparkz](https://trysparkz.com) | [FISHBOWLZ](https://www.fishbowlz.com) | [North Creek](https://northcreekme.com) | [ZAO OS on GitHub](https://github.com/bettercallzaal/ZAOOS) | [Every repo, one page](https://bettercallzaal.github.io/zao-repos/)
+**Everything else:** [ZABAL Gamez](https://zabalgamez.com) | [Bounty board](https://poidhz.com) | [COC Concertz](https://cocconcertz.com) | [Zuke](https://zuke.thezao.com) | [Zlank](https://zlank.vercel.app) | [Sparkz](https://trysparkz.com) | [FISHBOWLZ, ended May 2026](https://www.fishbowlz.com) | [North Creek](https://northcreekme.com) | [ZAO OS on GitHub](https://github.com/bettercallzaal/ZAOOS) | [Every repo, one page](https://bettercallzaal.github.io/zao-repos/)
 
 ---
 
