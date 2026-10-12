@@ -129,7 +129,7 @@ After two large organizations, I am ready for a more agile one.
 
 **Tools:** Claude Code, Claude API and agents, Next.js, React, Node.js, Supabase, Farcaster SDK, Solana, Base, Discord.js, Vercel, Twitch and livestream production.
 
-**Media:** host of [BCZ YapZ](https://bczyapz.com), long-form interviews, and live on [Twitch](https://www.twitch.tv/bettercallzaal).
+**Media:** host of [BCZ YapZ](https://bczyapz.com), long-form interviews, and live on [Twitch](https://www.twitch.tv/bettercallzaal). Featured in "People in Crypto" (pages 102-103, powered by [FUSDCrypto.com](https://fusdcrypto.com)): "Zaal Panthaki (BetterCallZaal) - Rebuilding Ownership for Independent Artists".
 
 ---
 
