@@ -53,7 +53,7 @@ Work that is not mine alone. The credit belongs to the people named.
 | | What it is | My part | Links |
 |---|---|---|---|
 | **WaveZStation** | A web3 music platform from the WaveWarZ team: fans pay what they want for a song and earn when later supporters buy the same song. | On the team, with Hurric4n3ike | [wavezstation.com](https://www.wavezstation.com) |
-| **North Creek** | A collective led by Brian, who brought everyone together. They played the ZAOstock 2026 after-party in Ellsworth, Maine. | I keep their site and work with them on shows and promotion | [northcreekme.com](https://northcreekme.com) |
+| **North Creek** | A collective led by Eteis, who brought everyone together. They played the ZAOstock 2026 after-party in Ellsworth, Maine. | I keep their site and work with them on shows and promotion | [northcreekme.com](https://northcreekme.com) |
 | **DreamNet** | Evidence infrastructure for AI work, built by Brandon Ducar. | I am building The ZAO's side of the connection, in the open in ZAO OS | [dreamnet.ink](https://dreamnet.ink) |
 
 ZAO Fractal stands on other people's work. The idea was formalized by Daniel Larimer and the Fractally protocol, [Eden Fractal](https://edenfractal.com) proved it could run for years, and Optimism Fractal brought it to Ethereum.
