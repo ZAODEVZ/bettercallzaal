@@ -101,6 +101,8 @@ On this account:
 
 **I am looking for a developer relations role or an agentic / AI-agent operations role: salaried and remote.**
 
+**Not hiring, but have a problem to solve? Start with a 30-minute consult for $1.** You bring the one problem eating your time. I tell you plainly whether I can help and what the first step is. [Book it](https://cal.com/bettercallzaal).
+
 I am also open to part-time gigs. Anything virtual or digital. I am a jack of all trades and can do several of these at once:
 
 | | What I can do for you | Proof |
