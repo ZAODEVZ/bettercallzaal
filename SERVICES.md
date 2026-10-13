@@ -6,15 +6,15 @@ Every project is a fixed price, quoted in writing before any work starts. You ow
 
 [Book a call](https://cal.com/bettercallzaal) | [Email](mailto:zaalp99@gmail.com) | [Back to profile](README.md)
 
-## Start here: a 30-minute consult for $1
+## Start here: a 30-minute consult
 
 Thirty minutes on a call with me. You bring the one problem eating your time. I tell you plainly whether I can help, how I would do it, and what the first step is.
 
 - **Who it is for:** small businesses, artists and teams who want to find out whether working together makes sense.
 - **What you leave with:** a straight answer on whether I can help, and the first step if I can. If we are not a fit, I say so.
-- **Price:** $1. The dollar is there so we both show up.
+- **Price:** $2 by card, or $1 in crypto (1 USDC on Base). Where to send it is on the booking page. The small charge is there so we both show up.
 
-[Book the $1 consult](https://cal.com/bettercallzaal)
+[Book the consult](https://cal.com/bettercallzaal)
 
 ## 1. Your site, in your name
 
@@ -76,7 +76,7 @@ For a crypto or music project that wants its numbers public and current.
 ## How it starts
 
 1. Send one line: the one problem eating your time.
-2. Book the $1 consult. If your problem fits one of the three, you get a fixed price and a date in writing after the call.
+2. Book the consult. If your problem fits one of the three, you get a fixed price and a date in writing after the call.
 3. Work starts when you say yes.
 
 BetterCallZaal Strategies LLC. Based in Maine, working remotely.
